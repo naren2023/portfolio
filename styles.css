@@ -106,7 +106,7 @@ section{
 }
 
 .animated-text h3:nth-child(1){
-    animation: text-move 6s infinite ease-out;
+    animation: text-move 3s;
 }
 
 @keyframes text-move {
